@@ -1,0 +1,76 @@
+D:\Current\Captcha Control\Captcha\Test\bin\Test.dll
+D:\Current\Captcha Control\Captcha\Test\bin\Test.pdb
+D:\Current\Captcha Control\Captcha\Test\bin\CaptchaControl.dll
+D:\Current\Captcha Control\Captcha\Test\bin\Newtonsoft.Json.dll
+D:\Current\Captcha Control\Captcha\Test\bin\System.Net.Http.Formatting.dll
+D:\Current\Captcha Control\Captcha\Test\bin\System.Web.Http.dll
+D:\Current\Captcha Control\Captcha\Test\bin\Tavisca.TravelNxt.ControlLoader.dll
+D:\Current\Captcha Control\Captcha\Test\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Current\Captcha Control\Captcha\Test\bin\CaptchaControl.pdb
+D:\Current\Captcha Control\Captcha\Test\bin\Tavisca.TravelNxt.ControlLoader.pdb
+D:\Current\Captcha Control\Captcha\Test\bin\Newtonsoft.Json.xml
+D:\Current\Captcha Control\Captcha\Test\bin\System.Net.Http.Formatting.xml
+D:\Current\Captcha Control\Captcha\Test\bin\System.Web.Http.xml
+D:\Current\Captcha Control\Captcha\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Current\Captcha Control\Captcha\Test\obj\Debug\Test.dll
+D:\Current\Captcha Control\Captcha\Test\obj\Debug\Test.pdb
+G:\Study\Captcha\Test\bin\Test.dll
+G:\Study\Captcha\Test\bin\Test.pdb
+G:\Study\Captcha\Test\bin\CaptchaControl.dll
+G:\Study\Captcha\Test\bin\Newtonsoft.Json.dll
+G:\Study\Captcha\Test\bin\System.Net.Http.Formatting.dll
+G:\Study\Captcha\Test\bin\System.Web.Http.dll
+G:\Study\Captcha\Test\bin\Tavisca.TravelNxt.ControlLoader.dll
+G:\Study\Captcha\Test\bin\WebApiContrib.Formatting.Jsonp.dll
+G:\Study\Captcha\Test\bin\CaptchaControl.pdb
+G:\Study\Captcha\Test\bin\Tavisca.TravelNxt.ControlLoader.pdb
+G:\Study\Captcha\Test\bin\Newtonsoft.Json.xml
+G:\Study\Captcha\Test\bin\System.Net.Http.Formatting.xml
+G:\Study\Captcha\Test\bin\System.Web.Http.xml
+G:\Study\Captcha\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Study\Captcha\Test\obj\Debug\Test.dll
+G:\Study\Captcha\Test\obj\Debug\Test.pdb
+G:\Study\Captcha\Test\bin\CaptchaService.dll
+G:\Study\Captcha\Test\bin\System.Web.Http.WebHost.dll
+G:\Study\Captcha\Test\bin\System.Web.Http.SelfHost.dll
+G:\Study\Captcha\Test\bin\System.Web.Http.SelfHost.xml
+G:\Study\Captcha\Test\bin\System.Web.Http.WebHost.xml
+C:\Users\ssrivastava\Downloads\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\ssrivastava\Downloads\Test\obj\Debug\Test.dll
+C:\Users\ssrivastava\Downloads\Test\obj\Debug\Test.pdb
+C:\Users\ssrivastava\Downloads\Test\bin\Test.dll
+C:\Users\ssrivastava\Downloads\Test\bin\Test.pdb
+C:\Users\ssrivastava\Downloads\Test\bin\CaptchaControl.dll
+C:\Users\ssrivastava\Downloads\Test\bin\CaptchaService.dll
+C:\Users\ssrivastava\Downloads\Test\bin\System.Net.Http.Formatting.dll
+C:\Users\ssrivastava\Downloads\Test\bin\System.Web.Http.dll
+C:\Users\ssrivastava\Downloads\Test\bin\System.Web.Http.SelfHost.dll
+C:\Users\ssrivastava\Downloads\Test\bin\System.Web.Http.WebHost.dll
+C:\Users\ssrivastava\Downloads\Test\bin\Tavisca.TravelNxt.ControlLoader.dll
+C:\Users\ssrivastava\Downloads\Test\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\ssrivastava\Downloads\Test\bin\CaptchaControl.pdb
+C:\Users\ssrivastava\Downloads\Test\bin\System.Net.Http.Formatting.xml
+C:\Users\ssrivastava\Downloads\Test\bin\System.Web.Http.xml
+C:\Users\ssrivastava\Downloads\Test\bin\System.Web.Http.SelfHost.xml
+C:\Users\ssrivastava\Downloads\Test\bin\System.Web.Http.WebHost.xml
+C:\Users\ssrivastava\Downloads\Test\bin\Tavisca.TravelNxt.ControlLoader.pdb
+D:\Projects\Captcha\Captcha\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Projects\Captcha\Captcha\Test\bin\Test.dll
+D:\Projects\Captcha\Captcha\Test\bin\Test.pdb
+D:\Projects\Captcha\Captcha\Test\bin\CaptchaControl.dll
+D:\Projects\Captcha\Captcha\Test\bin\CaptchaService.dll
+D:\Projects\Captcha\Captcha\Test\bin\Newtonsoft.Json.dll
+D:\Projects\Captcha\Captcha\Test\bin\System.Net.Http.Formatting.dll
+D:\Projects\Captcha\Captcha\Test\bin\System.Web.Http.dll
+D:\Projects\Captcha\Captcha\Test\bin\System.Web.Http.SelfHost.dll
+D:\Projects\Captcha\Captcha\Test\bin\System.Web.Http.WebHost.dll
+D:\Projects\Captcha\Captcha\Test\bin\Tavisca.TravelNxt.ControlLoader.dll
+D:\Projects\Captcha\Captcha\Test\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Projects\Captcha\Captcha\Test\bin\CaptchaControl.pdb
+D:\Projects\Captcha\Captcha\Test\bin\Tavisca.TravelNxt.ControlLoader.pdb
+D:\Projects\Captcha\Captcha\Test\bin\Newtonsoft.Json.xml
+D:\Projects\Captcha\Captcha\Test\bin\System.Net.Http.Formatting.xml
+D:\Projects\Captcha\Captcha\Test\bin\System.Web.Http.xml
+D:\Projects\Captcha\Captcha\Test\bin\System.Web.Http.SelfHost.xml
+D:\Projects\Captcha\Captcha\Test\obj\Debug\Test.dll
+D:\Projects\Captcha\Captcha\Test\obj\Debug\Test.pdb

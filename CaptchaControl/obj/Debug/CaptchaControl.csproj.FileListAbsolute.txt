@@ -1,0 +1,14 @@
+D:\Projects\Captcha\Captcha\CaptchaControl\obj\Debug\CaptchaControl.pdb
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\CaptchaControl.dll
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\CaptchaControl.pdb
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\Newtonsoft.Json.dll
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\System.Net.Http.Formatting.dll
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\System.Web.Http.dll
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\Tavisca.TravelNxt.ControlLoader.dll
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\Newtonsoft.Json.xml
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\System.Net.Http.Formatting.xml
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\System.Web.Http.xml
+D:\Projects\Captcha\Captcha\CaptchaControl\bin\Tavisca.TravelNxt.ControlLoader.pdb
+D:\Projects\Captcha\Captcha\CaptchaControl\obj\Debug\CaptchaControl.dll
+D:\Projects\Captcha\Captcha\CaptchaControl\obj\Debug\CaptchaControl.csprojResolveAssemblyReference.cache

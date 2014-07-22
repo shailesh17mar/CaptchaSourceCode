@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Captcha App</title>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.min.js"></script>
+    <script src="script/script.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="captcha.css" />
+</head>
+
+<body>
+
+
+    <div id="TCaptcha"></div>
+
+    <!--<div id="Div2">
+         <div class="captchaStatus"></div>
+        <img class="captchaImg" alt="Image missing" />
+        <div class="captchaContainer">
+            <input type="button" class="captchaRefresh" />
+        </div>
+        <input type="text" class="captchaText" />
+    </div>-->
+
+    <input type="submit" id="Submit1" />
+    <input type="submit" id="Button1" onclick="$('#Div2').VerifyCaptchaResponse()" />
+
+</body>
+<script>
+
+    var CaptchaOptions = {
+        defaultTheme: true,
+        characterLevel: 3,
+        graphicLevel: 3,
+        length: 5,
+        width: 200,
+        height: 100,
+    };
+
+    $('#Submit1').click(function () {
+        
+        $('#TCaptcha').VerifyCaptchaResponse(function (response)
+        {
+            
+            return response;
+        });
+        
+
+    });
+
+    $('#TCaptcha').SetupCaptcha();
+
+</script>
+</html>
