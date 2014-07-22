@@ -1,0 +1,5 @@
+D:\Projects\Captcha\Captcha\Tavisca.TravelNxt.EmbeddedControlLoader\bin\Debug\Tavisca.TravelNxt.ControlLoader.dll
+D:\Projects\Captcha\Captcha\Tavisca.TravelNxt.EmbeddedControlLoader\bin\Debug\Tavisca.TravelNxt.ControlLoader.pdb
+D:\Projects\Captcha\Captcha\Tavisca.TravelNxt.EmbeddedControlLoader\obj\Debug\Tavisca.TravelNxt.ControlLoader.dll
+D:\Projects\Captcha\Captcha\Tavisca.TravelNxt.EmbeddedControlLoader\obj\Debug\Tavisca.TravelNxt.ControlLoader.pdb
+D:\Projects\Captcha\Captcha\Tavisca.TravelNxt.EmbeddedControlLoader\obj\Debug\Tavisca.TravelNxt.ControlLoader.csprojResolveAssemblyReference.cache
